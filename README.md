@@ -5,6 +5,6 @@ This repository includes all the results of the PSO using three topologies: Star
 
 This project uses Python 3.11 and requires the libraries listed in the [`requirement.txt`](./requirement.txt) file. The configuration space for the experiment is defined in the [`sample_config.py`](./sample_config.py) file.
 
-A comparison of the three topologies — Star, Ring, and Von Neumann — is available in the [`Table of all topologies.pdf`]() folder.
+A comparison of the three topologies — Star, Ring, and Von Neumann — is available in the [`Table of all topologies.pdf`](./Table_of_all_topologies.pdf) folder.
 
 
